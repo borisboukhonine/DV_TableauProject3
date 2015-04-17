@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"Tableau Project 3 -- United States Cigarette Tax and Regulations\"\noutput: html_document\n---\n<br>\n<br>\n\n___\n\n**Visualization 1: States that have smoking restrictions in bars, restaurants and private worksites**\n\n<br>\n\n![](./Smoking_Restrictions_in_All_Commerical_Settings_by_State_for_2003-2013.jpg)\n\n<br>\n<br>\n<br>\n\n___\n\n**Visualization 2: Type of smoking restriction for each state for 1995-2013**\n\n\n<br>\n<br>\n<br>\n\n\n![](./Smoking_Restriction_Tax_Over_1995-2013.jpg)\n\n<br><br><br>\n*Here are two states, Arizona and New York respectively, highlighted in the previous visualization*\n\n<br>\n<br>\n<br>\n\n![](./Arizonas_Smoking_Restriction_Tax_Over_1995_2013.jpg)\n\n<br>\n<br>\n\n![](./New_Yorks_Smoking_Restriction_Tax_Over_1995-2013.jpg)\n\n<br><br>\n\n___\n\n**Visualization 3: Line plot of Cigarette Tax in States without smoking bans from 1995-2013**\n<br>\n<br>\n\n![](./vis_3.jpg)\n<br><br>\n\n___\n**Visualization 4: Map of states with smoking bans with average cigarette tax represented by point size in even-numbered years for 2000-2010**\n<br><br>\n\n![](./Map_of_Smoking_Bans_with_Avg_Tax_in_2000_2002.jpg)\n<br><br>\n\n![](./2004_2006.jpg)\n\n<br><br>\n![](./2008_2010.jpg)\n\n",
+    "created" : 1429302005488.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1576996550",
+    "id" : "204F964D",
+    "lastKnownWriteTime" : 1429303907,
+    "path" : "~/Classes/DataVisualization/DV_TableauProject3/00 Doc/tableau_project3.Rmd",
+    "project_path" : "00 Doc/tableau_project3.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
